@@ -64,8 +64,8 @@ public class OpenWebNetAutomationHandler extends OpenWebNetThingHandler {
     public static final int CALIBRATION_GOING_DOWN = 2;
 
     // positions
-    public static final int POSITION_DOWN = 100;
-    public static final int POSITION_UP = 0;
+    public static final int POSITION_DOWN = 0;
+    public static final int POSITION_UP = 100;
     public static final int POSITION_UNKNOWN = -1;
     public static final int SHUTTER_RUN_UNDEFINED = -1;
     // private static final int SHUTTER_RUN_MIN = 1000; // ms
